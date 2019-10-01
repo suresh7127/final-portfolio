@@ -1,4 +1,6 @@
-# final-portfolio:
+# Final-portfolio:
+
+# Here are some of the major works that I have accomplished duing my enrollement @ UT Austin Bootcamp:)
 
 # Literary FItness App
 Project 2
