@@ -102,7 +102,62 @@ I utilized JavaScript, jQuery and Moment.js to achieve this goal.<br>
 Working with moment.js was another interesting fact that I learned during this project.<br>
 Most Challenging part of this project was to set up time updates of the train schedule which i achieved with moment.js.<br>
 <br>
-3.	Gif Tastic: This was my best project and i feel so proud that I achieved this goal.<br>
+
+## Bamazon
+
+# Banaon Customer App
+# bamazon
+![bamazon cli](assets/images/banazone.jpg)
+
+## SEE THE DEMO 
+
+## View Sharable link below!!
+
+https://drive.google.com/file/d/1ywZBqj9r0Xq3aACf4l2ThgrP_ih_W-Ge/view
+
+
+## Dependencies used in this bamazone App:
+    * ascii-table
+    * chalk
+    * colors
+    * inquirer
+    * mysql
+
+    In this activity, i created  a Amazon-like storefront using  the MySQL. The app will take in orders 
+    from customers and deplete stock from the store's inventory.
+
+## Description
+
+This application implements a simple command line based storefront using the npm [inquirer]package and the MySQL database package. The application presents interface for: **customer** 
+
+## Getting Started 
+1. Clone the repository. 
+2. Run command `npm install` in Terminal.
+3. Set up MySQL database.
+
+
+### What JavaScript does!!
+
+1. `bamazonCustomer.js`
+
+    * Prints the products in the store.
+    * Prompts customer which product they would like to purchase by ID number.
+    * Asks for the quantity.
+    * Type in the ID number of the item you'd like to buy: 
+    * How many units would you like to buy? 
+    * Please Enter your Credit Card # 
+    * Are you sure you want to make this purchase? y/n
+
+      * If there is a sufficient amount of the product in stock, it will return the total for that purchase.
+      * However, if there is not enough of the product in stock, it will tell the user that there isn't enough of the product.
+      * If the purchase goes through, it updates the stock quantity to reflect the purchase.
+      * It will also update the product sales in the department table.
+
+	# Gif Tastic: 
+  ![Gif Tastic cli](assets/images/giftastic.jpg)
+  <br>
+  <br>
+  This was my best project and i feel so proud that I achieved this goal.<br>
 Although, it was a bit challenging, i am happy to show that hard work let us accomplish our goal.<br>
 Getting the Json data and implementing it with my project with associated key were very difficult to achieve.<br>
 However, the knowledge that I gained during my course work at UT Austin coding Bootcamp help to attain those goal.<br>
