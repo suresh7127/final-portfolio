@@ -51,6 +51,12 @@ they can accomplish their daily goal on time.<br>
 ![Project one Image](assets/images/project1.jpg)
 <br>
 Another interesting fact about the project was to give user rewards points if they achieve their goal on time.<br>
+# See The Demo:
+<br>
+ https://whereispolaris.github.io/firebase-application/
+
+ <br>
+ <br>
 We used firebase database and google authentication for user's data management. Managing data on firebase and providing log in information to user's identity were the most challenging parts of this project.<br>
 However, several hours of rigorous of work team members achieved these goals and we feel very proud of our teamwork.
 <br>
