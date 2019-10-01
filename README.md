@@ -25,7 +25,7 @@ Project 2
             - Hitting update will udpate the book progress to the database.
 
 4. Image of code working:
-    - ![Screenshot](lit-fit.png)
+    - ![Screenshot](assets/images/lit-fit.png)
 
 5. Deployed version of the app:
     - [Heroku Deployed Version](https://project2-teas.herokuapp.com/#!)
